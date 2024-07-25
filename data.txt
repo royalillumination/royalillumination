@@ -1,0 +1,2 @@
+{"timestamp":"2024-07-25T10:16:20.758Z","referrer":"http://example.com","cookies":["sessionId=abc123","userId=789xyz"]}
+{"timestamp":"2024-07-25T10:16:26.448Z","referrer":"http://example.com","cookies":["sessionId=abc123","userId=789xyz"]}
